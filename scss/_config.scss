@@ -1,0 +1,9 @@
+$hw-font: 'Rampart One', cursive;
+$hw-pamili: 'Lobster', cursive;
+$p-pamili: 'Great Vibes', cursive;
+
+@mixin transition {
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s;
+}
