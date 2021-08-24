@@ -134,4 +134,13 @@ body .container p a:hover {
             transform: translateX(0);
   }
 }
+
+@media (max-width: 500px) {
+  body h1 {
+    text-align: center;
+  }
+  body p {
+    font-size: .7rem;
+  }
+}
 /*# sourceMappingURL=style.css.map */
