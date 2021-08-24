@@ -138,6 +138,7 @@ body .container p a:hover {
 @media (max-width: 500px) {
   body h1 {
     text-align: center;
+    color: #cecbcb;
   }
   body p {
     font-size: .7rem;
